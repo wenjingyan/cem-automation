@@ -1,2 +1,2 @@
 # cem-automation
-A automatic framework for CEM data extraction utilising CEMExportTool.jar
+A integration framework with Splunk for CEM data automatic extraction utilising CEMExportTool.jar.
